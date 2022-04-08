@@ -1,0 +1,5 @@
+level_4
+EvilWizard1
+3.6
+1000
+40

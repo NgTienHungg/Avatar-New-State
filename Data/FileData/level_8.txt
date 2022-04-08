@@ -1,0 +1,5 @@
+level_8
+DemonSlime
+2.5
+1400
+80
