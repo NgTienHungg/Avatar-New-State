@@ -8,6 +8,8 @@
 
 - Sử dụng: `C++` + `SFML`.
 
+- [Docs about game](https://docs.google.com/document/d/1H6pM1pklrO6mXRImTtUcyvhNaCIqRWvC/edit?usp=sharing&ouid=102851195346342573678&rtpof=true&sd=true)
+
 - [Video demo](https://www.facebook.com/100063577121993/videos/1031340504115976/)
 
 ## 2. Nhận xét
